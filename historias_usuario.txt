@@ -1,0 +1,39 @@
+Exibir Números
+Como um aluno que irá utilizar o programa
+Quero que o mesmo exiba os números de 1 a 100
+Para que eu possa visualizar a sequência completa de números.
+
+    Critérios de aceite:
+    Dado que o aluno esteja com o programa aberto
+    Quando ele o executar
+    Então devem ser exibidos os 100 números
+
+Substituir Múltiplos de 3 por "Fizz"
+Como um aluno que irá utilizar o programa
+Quero que o programa substitua os números múltiplos de 3 pela palavra "Fizz"
+Para identificar facilmente esses múltiplos.
+
+    Critérios de aceite:
+    Dado que o aluno tenha executado o programa
+    Quando o número a ser exibido for um múltiplo de 3
+    Então a palavra "Fizz" deve ser exibida
+
+Substituir Múltiplos de 5 por "Buzz"
+Como um aluno que irá utilizar o programa
+Quero que o programa substitua os números múltiplos de 5 pela palavra "Buzz"
+Para identificar facilmente esses múltiplos.
+
+    Critérios de aceite:
+    Dado que o aluno tenha executado o programa
+    Quando o número a ser exibido for um múltiplo de 5
+    Então a palavra "buzz" deve ser exibida
+
+Substituir Múltiplos de 3 e 5 por "FizzBuzz"
+Como um aluno que irá utilizar o programa
+Quero que o programa substitua os números múltiplos de 3 e 5 pela palavra "FizzBuzz"
+Para identificar facilmente esses múltiplos.
+
+    Critérios de aceite:
+    Dado que o aluno tenha executado o programa
+    Quando o número a ser exibido for um múltiplo de 3 e de 5
+    Então a palavra "FizzBuzz" deve ser exibida
